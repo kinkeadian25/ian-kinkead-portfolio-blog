@@ -10,9 +10,9 @@
         learning/research, and some random fun stuff related to technology.
         Lately, I've been exploring different aspects of programming beyond just
         building full stack web and CRUD apps, but I still spend some time
-        getting better at it every day at work and home. I'm excited to share my
-        research and experiences with you through this blog. I hope you find it
-        informative and enjoyable!
+        getting better at those things every day at work and home. I'm excited
+        to share my research and experiences with you through this blog. I hope
+        you find it informative and enjoyable!
       </p>
       <div class="container mx-auto">
         <div
