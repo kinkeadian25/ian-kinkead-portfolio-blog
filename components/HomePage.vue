@@ -56,9 +56,9 @@
       >
         <p class="my-3 text-slate-200">
           The magic of taking an idea and making it happen through code is what
-          keeps me ticking. All complex problems have an elegant solution, and I
-          may not be the one to figure them all out, but I strive to participate
-          as much as I can through open source, my professional work, continuous
+          keeps me ticking. All complex problems have an elegant solution. I may
+          not be the one to figure them all out, but I strive to participate as
+          much as I can through open source, my professional work, continuous
           learning, and formal education. I am fully committed to learning how I
           can make technology more inclusive, high-performing and maintainable
           everyday.
