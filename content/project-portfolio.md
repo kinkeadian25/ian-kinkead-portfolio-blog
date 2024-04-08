@@ -5,6 +5,8 @@ topic: Projects - Click the Title for Images and Explanations
 date: March 26, 2022
 ---
 
+Check out the source code for this project on [GitHub](https://github.com/kinkeadian25/ian-kinkead-portfolio-blog).
+
 My portfolio site is back and better than ever! After taking a break to focus on school and work, I've completely rebuilt it using Vue, Nuxt, and Nuxt Content for stateless CMS and blogging.
 
 ## Tools Used
