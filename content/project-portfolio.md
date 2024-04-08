@@ -2,7 +2,7 @@
 title: Portfolio App - Vue, Nuxt, and Nuxt Content
 description: A portfolio site and blog built with Vue using Nuxt, and Nuxt Content for stateless CMS and blogging. You are currently visiting it!
 topic: Projects - Click the Title for Images and Explanations
-date: March 26, 2022
+date: April 7, 2022
 ---
 
 Check out the source code for this project on [GitHub](https://github.com/kinkeadian25/ian-kinkead-portfolio-blog).
