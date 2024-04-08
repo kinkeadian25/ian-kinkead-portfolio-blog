@@ -2,7 +2,7 @@
 title: Website for Local Brewery
 description: A website built for a local brewery using Eleventy, HTML, JavaScript, and LESS! I also used Netlify + CMS for hosting and the ability for the business owner to update content. Eleventy is an awesome static site generator!
 topic: Projects - Click the Title for Images and Explanations
-date: Nov. 8, 2022
+date: Nov. 8, 2023
 ---
 
 #### [Link: Chaos Bay Small Business Site on GitHub](https://github.com/kinkeadian25/template-v1)

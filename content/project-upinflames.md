@@ -2,7 +2,7 @@
 title: Up In Flames - Playable
 description: Up In Flames is a fun game where you play as a firefighter using sprinklers to put out fireballs who are trying to set a house on fire. This game was made for a game jam over a week, with the great Eleanor Kinkead making the art!
 topic: Projects - Click the Title for Images and Explanations
-date: Nov. 8, 2022
+date: Dec. 8, 2022
 ---
 
 ![Up In Flames](/project-2.gif)

@@ -2,7 +2,7 @@
 title: Nomad - Android App
 description: Nomad is a full stack mobile application designed to address the needs of travelers. It allows users to plan vacations and excursions, track costs, and generate reports.
 topic: Projects - Click the Title for Images and Explanations
-date: March 26, 2022
+date: March 26, 2024
 ---
 
 ![Nomad](/nomad.gif)
