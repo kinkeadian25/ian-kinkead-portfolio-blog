@@ -61,7 +61,7 @@ export default {
 ::v-deep .markdown p {
   color: #d4d4d4;
   margin-bottom: 1em;
-  text-align: justify;
+  text-align: left;
 }
 
 ::v-deep .markdown pre {
@@ -85,6 +85,15 @@ export default {
   word-spacing: normal;
 }
 
+::v-deep .markdown ul {
+  list-style-type: disc;
+  padding-left: 1em;
+}
+
+::v-deep .markdown ul li {
+  margin-bottom: 0.5em;
+}
+
 ::v-deep .markdown .token.operator {
   background: none;
 }
@@ -98,10 +107,23 @@ export default {
   color: #7dd3fc;
 }
 
-@media (min-width: 640px) {
+@media (max-width: 639px) {
+  ::v-deep .markdown {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  ::v-deep .markdown p {
+    text-align: left;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
   ::v-deep .markdown {
     margin-left: 2rem;
     margin-right: 2rem;
+  }
+  ::v-deep .markdown p {
+    text-align: left;
   }
 }
 
@@ -109,6 +131,9 @@ export default {
   ::v-deep .markdown {
     margin-left: 10rem;
     margin-right: 10rem;
+  }
+  ::v-deep .markdown p {
+    text-align: left;
   }
 }
 </style>
