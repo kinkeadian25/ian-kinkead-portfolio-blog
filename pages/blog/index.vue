@@ -7,11 +7,12 @@
       </h1>
       <p class="text-slate-200 mb-10 text-center mx-4 md:mx-60">
         Here you will find a collection of my open source work, projects,
-        learning/research, and some random fun stuff surrounding tech. I have
-        found lately that it is feeling a bit easy to whip up a CRUD app, so I
-        want to explore some other aspects of programming that are not as visual
-        and blog my research and work surrounding them! I hope you enjoy your
-        stay!
+        learning/research, and some random fun stuff related to technology.
+        Lately, I've been exploring different aspects of programming beyond just
+        building CRUD apps and web, but I still spend some time getting better
+        at it every day at work and home. I'm excited to share my research and
+        experiences with you through this blog. I hope you find it informative
+        and enjoyable!
       </p>
       <div class="container mx-auto">
         <div
