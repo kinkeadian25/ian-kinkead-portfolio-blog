@@ -5,8 +5,6 @@ topic: Projects - Click the Title for Images and Explanations
 date: March 26, 2022
 ---
 
-![Portfolio App](/portfolio-app.gif)
-
 My portfolio site is back and better than ever! After taking a break to focus on school and work, I've completely rebuilt it using Vue, Nuxt, and Nuxt Content for stateless CMS and blogging.
 
 ## Tools Used
