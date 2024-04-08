@@ -100,7 +100,7 @@
               achieving a 3x increase in feature delivery per quarter through
               effective teamwork and agile methodologies.
             </li>
-            <li class="text-slate-300">
+            <li class="text-slate-200">
               Designated as technical lead for a key over-the-air vehicle
               programming project, demonstrating expertise in developing domain
               knowledge. Participated in developing over 40 user stories and
