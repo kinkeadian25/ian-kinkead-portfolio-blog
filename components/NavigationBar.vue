@@ -24,22 +24,38 @@
       </div>
       <ul class="hidden md:flex md:space-x-4">
         <li>
-          <router-link to="/" class="hover:text-teal-500">Home</router-link>
+          <router-link
+            to="/"
+            class="hover:text-teal-500 text-lg px-2 py-1 font-semibold"
+            >Home</router-link
+          >
         </li>
         <li>
-          <nuxt-link to="/blog" class="hover:text-teal-500">Blog</nuxt-link>
+          <nuxt-link
+            to="/blog"
+            class="hover:text-teal-500 text-lg px-2 py-1 font-semibold"
+            >Blog</nuxt-link
+          >
         </li>
       </ul>
     </div>
     <ul
       v-if="isMenuOpen"
-      class="md:hidden bg-gray-900 text-white absolute top-16 right-0 w-48 py-2 px-4 space-y-2"
+      class="md:hidden bg-zinc-950 text-white absolute top-16 right-0 w-48 py-2 px-4 space-y-2"
     >
       <li>
-        <router-link to="/" class="hover:text-teal-500">Home</router-link>
+        <router-link
+          to="/"
+          class="hover:text-teal-500 text-lg px-2 py-1 font-semibold"
+          >Home</router-link
+        >
       </li>
       <li>
-        <nuxt-link to="/blog" class="hover:text-teal-500">Blog</nuxt-link>
+        <nuxt-link
+          to="/blog"
+          class="hover:text-teal-500 text-lg px-2 py-1 font-semibold"
+          >Blog</nuxt-link
+        >
       </li>
     </ul>
   </nav>
