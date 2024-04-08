@@ -5,7 +5,7 @@ topic: Leetcode Daily
 date: April 7, 2024
 ---
 
-Here with those post I am announcing my plan to document my journey to master data structures and algorithms. As someone who has dabbled in these concepts and is already fairly efficient, I am determined to take my skills to the next level.
+Here with this post I am announcing my plan to document my journey to master data structures and algorithms. As someone who has dabbled in these concepts and is already fairly efficient, I am determined to take my skills to the next level.
 
 ## Daily Blog Posts
 
