@@ -11,7 +11,7 @@ In my recent work on the [dotnet/roslyn](https://github.com/dotnet/roslyn) repos
 
 ## The Issue
 
-The problem was identified in issue [#65984](https://github.com/dotnet/roslyn/issues/65984), titled "AsPublicInterfaceImplementation doesn't handle expression-bodied correctly".
+The problem was identified in issue [#65984](https://github.com/dotnet/roslyn/issues/65984), titled "As Public Interface Implementation doesn't handle expression-bodied correctly".
 
 The existing code resulted in this:
 
@@ -27,7 +27,7 @@ public class C : IGeneral
 }
 ```
 
-The issue was that AsPublicInterfaceImplementation did not correctly handle the expression-bodied method in the explicit implementation above.
+The issue was that As Public Interface Implementation did not correctly handle the expression-bodied method in the explicit implementation above.
 
 ## The Solution
 
