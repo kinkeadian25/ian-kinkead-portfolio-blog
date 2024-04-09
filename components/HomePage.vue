@@ -92,81 +92,55 @@
             PACCAR, Renton, WA – Software Engineer/Technical Lead, Apr 2023 –
             Present
           </h3>
-          <ul class="list-disc ml-6">
-            <li class="text-slate-200">
-              Collaborated closely with cross-functional teams to lead, and
-              implement most of, the development of a key customer-facing
-              aftermarket web application, supporting millions of customers,
-              achieving a 3x increase in feature delivery per quarter through
-              effective teamwork and agile methodologies.
-            </li>
-            <li class="text-slate-200">
-              Designated as technical lead for a key over-the-air vehicle
-              programming project, demonstrating expertise in developing domain
-              knowledge. Participated in developing over 40 user stories and
-              integration plans into a robust existing architecture spanning 3
-              separate teams.
-            </li>
-            <li class="text-slate-200">
-              Implemented a Jupyter notebook utilizing pandas, SQLAlchemy, and
-              more, for unified querying across four databases, that compares
-              data and suggests fixes for incident reports, drastically reducing
-              issue resolution time by about 2 hours daily.
-            </li>
-            <li class="text-slate-200">
-              Developed and integrated Kafka worker services, utilizing .NET
-              Core 8, into an existing architecture supporting over-the-air
-              vehicle software updates, enhancing system efficiency and
-              scalability.
-            </li>
-
-            <li class="text-slate-200">
-              Developed and launched a pivotal parameter filtering feature to
-              accommodate the expansion to 800 changeable vehicle parameters
-              within a web app that serves millions, enhancing user satisfaction
-              by enabling system-specific parameter views.
-            </li>
-            <li class="text-slate-200">
-              Delivered 7 full-stack features to production in 6 months, while
-              working on and automating production support cases daily and
-              maintaining zero Checkmarx vulnerabilities.
-            </li>
-          </ul>
+          <br />
+          <p class="text-slate-200">
+            As a full stack developer at PACCAR, I have been getting the chance
+            to work with and lead cross-functional teams in developing
+            customer-facing web applications. I have also served as a technical
+            lead for a high visibility and cost project, contributing to the
+            development of user stories and integration plans across multiple
+            teams, which has been super exciting!
+          </p>
+          <br />
+          <p>
+            I also have gotten to do a ton of work automating incident
+            resolution and report generation, which is extremely rewarding. My
+            work also includes enhancing various systems for a large
+            architecture's efficiency, fault tolerance, and scalability.
+            Throughout my time at PACCAR, I have been able to deliver a lot of
+            full-stack features to production while maintaining zero
+            vulnerabilities and supporting production due to great mentorship
+            and a lot of permission to innovate.
+          </p>
         </div>
         <div class="my-4">
           <h3 class="font-semibold text-slate-200">
             Microsoft, Bremerton, WA (Remote) – Student, Oct 2022 – Feb 2023
           </h3>
-          <ul class="list-disc ml-6">
-            <li class="text-slate-200">
-              Graduated from the Microsoft Software and Systems Academy Cloud
-              App Dev program. Built cloud-based web and desktop apps, Azure
-              Functions, and covered most key Azure services. Also offered
-              opportunities for mentorship from Senior MS employees.
-            </li>
-            <li class="text-slate-200">
-              Committed, reviewed, and collaborated on code and tests for the
-              Microsoft-owned GitHub repository dotnet/Roslyn, the C# and VB
-              compiler, which also helped fix 9 issues.
-            </li>
-          </ul>
+          <br />
+          <p class="text-slate-200">
+            During my time as a student at Microsoft, I graduated from the
+            Microsoft Software and Systems Academy Cloud App Dev program. This
+            program provided me with valuable experience in building cloud-based
+            web and desktop apps and working with key Azure services. I also had
+            the opportunity to contribute to the Microsoft-owned GitHub
+            repository dotnet/Roslyn, collaborating on code and tests for the C#
+            and VB compiler.
+          </p>
         </div>
         <div class="my-4">
           <h3 class="font-semibold text-slate-200">
             US Navy, USS Nimitz – Content Development & Creative Director, Jan
             2016 – Mar 2023
           </h3>
-          <ul class="list-disc ml-6">
-            <li class="text-slate-200">
-              Led a team of 40 sailors in creating media campaigns, reaching
-              over 500,000 viewers, in collaboration with international
-              partners.
-            </li>
-            <li class="text-slate-200">
-              Developed and delivered training programs designed to foster a
-              culture of open-mindedness and efficiency.
-            </li>
-          </ul>
+          <br />
+          <p class="text-slate-200">
+            As a Content Development & Creative Director on the USS Nimitz, I
+            led a team in creating media campaigns that reached a wide audience
+            and collaborated with international partners. Additionally, I
+            developed and delivered training programs to promote open-mindedness
+            and efficiency among the crew.
+          </p>
         </div>
         <div class="my-4">
           <h3 class="font-semibold text-slate-200">Technical Skills:</h3>
@@ -179,7 +153,7 @@
               Proficient: Java, Powershell, Azure, AWS, Docker, Vue, React,
               jQuery
             </li>
-            <li class="text-slate-200">Can Spell: C++, PHP, Go, Kotlin</li>
+            <li class="text-slate-200">Can Spell: C++, Go, Kotlin</li>
             <li class="text-slate-200">
               Tools: Postman, Sumo Logic, Visual Studio, VSCode, Android Studio,
               IntelliJ, Swagger, ADO
