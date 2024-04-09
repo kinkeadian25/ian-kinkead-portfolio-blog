@@ -43,4 +43,4 @@ These concepts were not only fascinating but also gave me a deeper understanding
 
 I am just so thrilled to be reading this book! Now that I am done with school, I can finally embark on this journey that I decided I needed to accomplish after my first Console.WriteLine("Hello World") when I decided to teach myself C#. Now that I have the intro done, it is time to start creating Lox first as jlox with Java, and then clox with C!
 
-Once I have completed this book, I am going to buy a couple more and use them along the way to help me build my first language without any real guidance, **Reena**!
+Once I have completed this book, I am going to buy a couple more and use them along the way to help me build my first language without any sort of tutorial, **Reena**!
