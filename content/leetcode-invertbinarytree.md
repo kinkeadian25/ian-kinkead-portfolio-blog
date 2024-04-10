@@ -50,11 +50,6 @@ class TreeNode(object):
 
 class Solution(object):
     def invertTree(self, root):
-        """
-        :type root: TreeNode
-        :rtype: TreeNode
-        """
-
         if root is None:
             return None
 
