@@ -39,7 +39,7 @@ The number of nodes in the tree is in the range [0, 100].
 
 This approach has a time complexity of O(n) because we traverse the tree containing n nodes only once.
 
-The simplest approach to solve the Invert Binary Tree problem is by using recursion. We can swap the left and right child of all nodes in the tree.
+The simplest approach to solve the Invert Binary Tree problem is by using recursion. We can swap the left and right child of all nodes in the tree and return when a node is none or nil!
 
 ```python
 class TreeNode(object):
