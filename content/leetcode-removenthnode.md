@@ -1,7 +1,7 @@
 ---
 title: Solving the Remove Nth Node From End of List Problem
 description: Learn how to solve the Remove Nth Node From End of List problem using Python. Understand the problem statement, grasp the theory, and implement the solution. This is good practice for linked list problems.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 7, 2024
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Product of Array Except Self Problem
 description: Learn how to solve the Product of Array Except Self problem using Python. Understand the problem statement, explore different approaches, and implement the solution step by step. This is a medium difficulty question from LeetCode.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 10, 2024
 ---
 

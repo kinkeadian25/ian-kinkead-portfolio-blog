@@ -1,7 +1,7 @@
 ---
 title: Solving the Two Sum Problem
 description: Learn how to solve the Two Sum problem using Python. Understand the problem statement, explore different approaches, and implement the solution step by step. This is probably the easiest question from the Blind 75 and a great place to start with DSA.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 7, 2024
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Contains Duplicate Problem
 description: Learn how to solve the Contains Duplicate problem using Python. Understand the problem statement, explore different approaches, and implement the solution step by step. This is an easy difficulty question from LeetCode.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 11, 2024
 ---
 

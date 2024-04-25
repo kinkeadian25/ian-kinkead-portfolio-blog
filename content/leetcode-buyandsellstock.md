@@ -1,7 +1,7 @@
 ---
 title: Solving the Best Time to Buy and Sell Stock Problem
 description: Learn how to solve the Best Time to Buy and Sell Stock problem using Python. Understand the problem statement, grasp the theory, and implement the solution. This is good practice for array problems.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 8, 2024
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Invert Binary Tree Problem
 description: Learn how to solve the LeetCode Invert Binary Tree problem using Python. Understand the problem statement, and see how I implemented the solution step by step in Python. This is a classic question from LeetCode and a great place to start with tree data structures.
-topic: Leetcode Daily
+topic: Leetcode
 date: April 9, 2024
 ---
 
