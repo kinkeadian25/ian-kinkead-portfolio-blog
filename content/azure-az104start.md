@@ -2,7 +2,7 @@
 title: Journey to Earning the AZ-104 Certification
 description: Follow my journey as I work towards earning the AZ-104 certification by going through the Microsoft Learn modules. With some prior experience, I am now aiming for certification, with an end goal of attaining AZ-305.
 topic: Azure Learning
-date: April 12, 2024
+date: April 25, 2024
 ---
 
 ### [Link: Microsoft Learn AZ-104 Administrator Prerequisites](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/)
