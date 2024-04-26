@@ -7,11 +7,11 @@ date: April 25, 2024
 
 ## Why This Course?
 
-I do already have some familiar with Azure through acquiring my AZ-900, and some light exposure as a developer at my current company. So I wanted to begin my deep learning into architecting things outside of applications with a hands-on approach!
+I do already have some solid familiarity with Azure through acquiring my AZ-900, and exposure as a developer at my current company. Now I want to dedicate time to learning how to architect things outside of the application layer with a hands-on approach! I know about a lot of these concepts at a high level, but I want to really push the boundaries of my knowledge.
 
 ## What I Aim to Learn?
 
-I want to come away from this course feeling confident that I can make design decisions regarding every single layer of a system to support a business. I know I will be far from an expert, but I believe this course will get me to that place where I feel I am as an engineer. If I know what needs to be done, I will know how to do the research to accomplish it in an effective and clean manner!
+I want to come away from this course feeling confident that I can make the best possible design decisions regarding every single layer of a system to support a business utilizing Azure. I know I will be far from an expert, but I believe this course will get me to that place where I feel I am as an engineer. If I know what needs to be done, I will know how to do the research to accomplish it in an effective and clean manner! I don't ever want to view myself as an expert, because I know especially with Azure, the learning never stops.
 
 I also believe this course will help me identify where my weaknesses are in architectural design, and it will help me make decisions on where to focus my more specific Azure and general architecture learning going forward.
 
