@@ -1,3 +1,10 @@
+---
+title: Clean Creatures
+description: Wrote this for fun on lunch
+date: Nov. 16, 2026
+topic: Philosophy
+---
+
 The creatures in the glass rooms liked things smooth. They had four limbs, soft skin, and a habit of acting as if friction were an insult.
 
 Their desks had no wires showing. Their air stayed at seventy-one degrees all year without anybody opening a window. They used words like cloud and alignment and framework until the whole floor sounded like software with no moving parts. It was a very polite arrangement, the way a funeral parlor is polite to a body: everything combed, nothing leaking, everybody whispering like quiet were a virtue, no complex signs of human life. Perfect.
